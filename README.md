@@ -11,6 +11,10 @@
 - 応用情報技術者
 ### その他
 - AtCoder：https://atcoder.jp/users/guregori
+### 趣味
+- bot開発
+- ランニング
+- サウナ
 <!--
 **GureGorii/GureGorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
