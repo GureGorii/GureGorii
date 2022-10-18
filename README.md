@@ -14,7 +14,7 @@
 ### その他
 - AtCoder：https://atcoder.jp/users/guregori
 ### 趣味
-- bot開発
+- 料理
 - ランニング
 - サウナ
 <!--
